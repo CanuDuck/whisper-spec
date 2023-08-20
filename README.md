@@ -1,4 +1,4 @@
-# whisper-spec
+# WhisperTag-spec
 Wisper is the code name for a project whose goal is to develop a product designed to help pet owners keep track of their pets. The primary target is dog or cat owners.
 
 # Problem 
@@ -14,9 +14,26 @@ A small physical geo-tag device that can be attached to a pet's collar combined 
 
 Unlike Apple AirTags, the Whisper will provide fine-grained granular location data that will easily allow you to monitor your pet's location in higher precision and better reliability than Apple devices that quickly lose capabilities beyond a few feet of range. 
 
-Whisper is designed to triangulate your pet's position using three independent signals
+WhisperTag is designed to triangulate your pet's position using three independent signals
 * home wi-fi
 * mobile wi-fi hotspot
 * mobile bluetooth
 
 By combining three independent signals to triangulate location, Whisper can offer greater resolution and reliability over a larger range.
+
+# Requirements
+
+## WhisperTag Device
+
+* A small disk shaped device
+* Ability to geo-locate using gps
+* Ability to communicate via Bluetooth
+* Ability to communicate via wifi
+* Low power consumption
+* Small battery
+* Long battery life (months)
+* Temperature sensor
+* Camera
+* Speaker
+* Microphone
+* other
