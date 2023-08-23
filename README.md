@@ -33,7 +33,7 @@ By combining three independent signals to triangulate location, Whisper can offe
 * Small battery
 * Long battery life (months)
 * Temperature sensor
-* Camera
 * Speaker
 * Microphone
+* Camera (optional)
 * other
